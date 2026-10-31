@@ -1,0 +1,19 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs & build artifacts
+*.log
+*.tmp
+dist/
+build/
+node_modules/
+
+# Secrets & environment
+.env
+.env.*
+*.key
+*.pem
+*credentials*
